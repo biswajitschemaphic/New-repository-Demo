@@ -1,4 +1,4 @@
 # New-repository-Demo
 This is my first new demo repo.
 <br>
-Author - Biswajit Saha
+Author - Biswajit Saha (Schemaphic)
